@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T07:57:12.338489+00:00",
+  "updated_at": "2026-11-18T08:00:06.723590+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -577,6 +577,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
       "frame_index": 29666,
       "posted_at": "2026-11-18T07:57:12.338477+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::7976",
+      "season": 1,
+      "episode": 12,
+      "filename": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4",
+      "frame_index": 7976,
+      "posted_at": "2026-11-18T08:00:06.723575+00:00"
     }
   ]
 }
