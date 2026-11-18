@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T08:54:18.412695+00:00",
+  "updated_at": "2026-11-18T08:57:12.841039+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -729,6 +729,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
       "frame_index": 5417,
       "posted_at": "2026-11-18T08:54:18.412681+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4::31633",
+      "season": 2,
+      "episode": 5,
+      "filename": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4",
+      "frame_index": 31633,
+      "posted_at": "2026-11-18T08:57:12.841026+00:00"
     }
   ]
 }
