@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T22:23:16.073911+00:00",
+  "updated_at": "2026-11-18T22:26:13.889778+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4::18568",
-      "season": 1,
-      "episode": 2,
-      "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
-      "frame_index": 18568,
-      "posted_at": "2026-11-18T10:02:10.504060+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4::1665",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
       "frame_index": 11623,
       "posted_at": "2026-11-18T22:23:16.073899+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::25467",
+      "season": 2,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
+      "frame_index": 25467,
+      "posted_at": "2026-11-18T22:26:13.889765+00:00"
     }
   ]
 }
