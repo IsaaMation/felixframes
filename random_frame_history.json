@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T16:07:41.769777+00:00",
+  "updated_at": "2026-11-18T16:10:41.860638+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -1897,6 +1897,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
       "frame_index": 26382,
       "posted_at": "2026-11-18T16:07:41.769763+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::1587",
+      "season": 1,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4",
+      "frame_index": 1587,
+      "posted_at": "2026-11-18T16:10:41.860626+00:00"
     }
   ]
 }
