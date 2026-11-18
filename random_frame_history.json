@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T08:24:28.480963+00:00",
+  "updated_at": "2026-11-18T08:27:23.253804+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -649,6 +649,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4",
       "frame_index": 336,
       "posted_at": "2026-11-18T08:24:28.480948+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::15178",
+      "season": 1,
+      "episode": 9,
+      "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
+      "frame_index": 15178,
+      "posted_at": "2026-11-18T08:27:23.253791+00:00"
     }
   ]
 }
