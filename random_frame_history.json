@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T18:00:34.938295+00:00",
+  "updated_at": "2026-11-18T18:03:31.957949+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::26831",
-      "season": 1,
-      "episode": 11,
-      "filename": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4",
-      "frame_index": 26831,
-      "posted_at": "2026-11-18T05:40:16.880988+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::28674",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
       "frame_index": 10932,
       "posted_at": "2026-11-18T18:00:34.938282+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4::30863",
+      "season": 2,
+      "episode": 1,
+      "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
+      "frame_index": 30863,
+      "posted_at": "2026-11-18T18:03:31.957935+00:00"
     }
   ]
 }
