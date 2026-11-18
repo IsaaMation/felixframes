@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T20:26:52.762444+00:00",
+  "updated_at": "2026-11-18T20:29:48.972285+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::32648",
-      "season": 2,
-      "episode": 7,
-      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
-      "frame_index": 32648,
-      "posted_at": "2026-11-18T08:06:40.057740+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::24650",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
       "frame_index": 11547,
       "posted_at": "2026-11-18T20:26:52.762429+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::22121",
+      "season": 1,
+      "episode": 6,
+      "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
+      "frame_index": 22121,
+      "posted_at": "2026-11-18T20:29:48.972272+00:00"
     }
   ]
 }
