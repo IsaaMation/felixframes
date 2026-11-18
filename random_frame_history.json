@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T15:28:45.100471+00:00",
+  "updated_at": "2026-11-18T15:31:46.027911+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -1793,6 +1793,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4",
       "frame_index": 3749,
       "posted_at": "2026-11-18T15:28:45.100457+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::3941",
+      "season": 2,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
+      "frame_index": 3941,
+      "posted_at": "2026-11-18T15:31:46.027899+00:00"
     }
   ]
 }
