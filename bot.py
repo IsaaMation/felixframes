@@ -40,8 +40,9 @@ from atproto.exceptions import AtProtocolError
 # -----------------------------------------------------------------------------
 # BLUESKY CONFIGURATION
 # -----------------------------------------------------------------------------
-HANDLE = "malteseshakeframes.bsky.social"
-APP_PASSWORD = os.getenv("BLUESKY_APP_PASSWORD") or os.getenv("BSKY_PASSWORD")
+HANDLE = "twistedfelixframes.bsky.social"
+_raw_app_password = os.getenv("BLUESKY_APP_PASSWORD") or os.getenv("BSKY_PASSWORD") or ""
+APP_PASSWORD = _raw_app_password.strip()
 
 # -----------------------------------------------------------------------------
 # INTERNET ARCHIVE EPISODE LIBRARY
