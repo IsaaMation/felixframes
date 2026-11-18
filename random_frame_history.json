@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T05:27:57.476231+00:00",
+  "updated_at": "2026-11-18T05:31:17.309300+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -177,6 +177,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
       "frame_index": 17967,
       "posted_at": "2026-11-18T05:27:57.476219+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::27100",
+      "season": 1,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
+      "frame_index": 27100,
+      "posted_at": "2026-11-18T05:31:17.309287+00:00"
     }
   ]
 }
