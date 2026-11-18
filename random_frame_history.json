@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T23:11:29.423974+00:00",
+  "updated_at": "2026-11-18T23:14:31.413827+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::24890",
-      "season": 1,
-      "episode": 10,
-      "filename": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4",
-      "frame_index": 24890,
-      "posted_at": "2026-11-18T10:49:41.300151+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::27625",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
       "frame_index": 27127,
       "posted_at": "2026-11-18T23:11:29.423961+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::3114",
+      "season": 1,
+      "episode": 1,
+      "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
+      "frame_index": 3114,
+      "posted_at": "2026-11-18T23:14:31.413814+00:00"
     }
   ]
 }
