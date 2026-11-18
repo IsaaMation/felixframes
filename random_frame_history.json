@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T13:32:32.092806+00:00",
+  "updated_at": "2026-11-18T13:35:27.383950+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -1481,6 +1481,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
       "frame_index": 30523,
       "posted_at": "2026-11-18T13:32:32.092792+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::29484",
+      "season": 2,
+      "episode": 4,
+      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
+      "frame_index": 29484,
+      "posted_at": "2026-11-18T13:35:27.383938+00:00"
     }
   ]
 }
