@@ -60,6 +60,7 @@ SERIES_TITLE = "The Twisted Tales of Felix the Cat"
 # POSTING / LOCAL STATE
 # -----------------------------------------------------------------------------
 MAX_BYTES = 950_000
+TARGET_ASPECT_RATIO = 4 / 3  # Width:height (4:3)
 HISTORY_FILE = "random_frame_history.json"
 HISTORY_LIMIT = 250
 SESSION_FILE = "bsky_session.txt"
@@ -287,6 +288,29 @@ def extract_frame(cap, frame_index):
     return frame
 
 
+def crop_frame_to_aspect_ratio(frame, target_ratio=TARGET_ASPECT_RATIO):
+    """Center-crop a frame to the requested width:height aspect ratio."""
+    height, width = frame.shape[:2]
+    current_ratio = width / height
+
+    # Crop the longer dimension; do not stretch or distort the picture.
+    if current_ratio > target_ratio:
+        cropped_width = max(1, round(height * target_ratio))
+        left = (width - cropped_width) // 2
+        frame = frame[:, left:left + cropped_width]
+    elif current_ratio < target_ratio:
+        cropped_height = max(1, round(width / target_ratio))
+        top = (height - cropped_height) // 2
+        frame = frame[top:top + cropped_height, :]
+
+    cropped_height, cropped_width = frame.shape[:2]
+    print(
+        f"✂️ Center-cropped frame to 4:3: "
+        f"{cropped_width}x{cropped_height}."
+    )
+    return frame
+
+
 def write_compressed_frame(frame):
     """Write PNG and resize until it fits below the Bluesky upload-size target."""
     write_ok = cv2.imwrite(
@@ -402,6 +426,7 @@ def main():
         print(f"🎲 Random frame selected: {frame_index + 1:,} / {total_frames:,}")
 
         frame = extract_frame(cap, frame_index)
+        frame = crop_frame_to_aspect_ratio(frame)
         write_compressed_frame(frame)
 
         post_text = make_post_text(episode, frame_index, total_frames)
