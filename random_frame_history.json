@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T23:38:30.419384+00:00",
+  "updated_at": "2026-11-18T23:41:24.298185+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::16014",
-      "season": 1,
-      "episode": 1,
-      "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
-      "frame_index": 16014,
-      "posted_at": "2026-11-18T11:16:04.538745+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::13023",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
       "frame_index": 9108,
       "posted_at": "2026-11-18T23:38:30.419371+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::6644",
+      "season": 1,
+      "episode": 13,
+      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
+      "frame_index": 6644,
+      "posted_at": "2026-11-18T23:41:24.298173+00:00"
     }
   ]
 }
