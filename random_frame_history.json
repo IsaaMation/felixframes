@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T08:15:34.198597+00:00",
+  "updated_at": "2026-11-18T08:18:34.808082+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -625,6 +625,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
       "frame_index": 31845,
       "posted_at": "2026-11-18T08:15:34.198584+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4::29932",
+      "season": 2,
+      "episode": 6,
+      "filename": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4",
+      "frame_index": 29932,
+      "posted_at": "2026-11-18T08:18:34.808066+00:00"
     }
   ]
 }
