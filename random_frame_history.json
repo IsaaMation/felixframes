@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T16:13:37.480718+00:00",
+  "updated_at": "2026-11-18T16:16:35.866491+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -1913,6 +1913,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
       "frame_index": 28011,
       "posted_at": "2026-11-18T16:13:37.480706+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::6717",
+      "season": 1,
+      "episode": 6,
+      "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
+      "frame_index": 6717,
+      "posted_at": "2026-11-18T16:16:35.866478+00:00"
     }
   ]
 }
