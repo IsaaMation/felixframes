@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T12:03:53.730492+00:00",
+  "updated_at": "2026-11-18T12:06:49.206182+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -1241,6 +1241,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4",
       "frame_index": 7646,
       "posted_at": "2026-11-18T12:03:53.730477+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4::16436",
+      "season": 2,
+      "episode": 2,
+      "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
+      "frame_index": 16436,
+      "posted_at": "2026-11-18T12:06:49.206170+00:00"
     }
   ]
 }
