@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T08:09:38.504023+00:00",
+  "updated_at": "2026-11-18T08:12:35.870721+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -609,6 +609,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
       "frame_index": 24650,
       "posted_at": "2026-11-18T08:09:38.504012+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::32528",
+      "season": 1,
+      "episode": 12,
+      "filename": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4",
+      "frame_index": 32528,
+      "posted_at": "2026-11-18T08:12:35.870708+00:00"
     }
   ]
 }
