@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T18:48:16.317772+00:00",
+  "updated_at": "2026-11-18T18:51:11.808523+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4::18988",
-      "season": 1,
-      "episode": 5,
-      "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
-      "frame_index": 18988,
-      "posted_at": "2026-11-18T06:27:45.657315+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::7396",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
       "frame_index": 22867,
       "posted_at": "2026-11-18T18:48:16.317758+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::9871",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 9871,
+      "posted_at": "2026-11-18T18:51:11.808510+00:00"
     }
   ]
 }
