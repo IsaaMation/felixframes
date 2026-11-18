@@ -9,6 +9,29 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import ssl
+
+# OpenCV's bundled FFmpeg may not automatically use the same trusted CA
+# bundle as Python's urllib. Pass Python's system CA bundle to FFmpeg while
+# keeping TLS certificate verification enabled. This avoids disabling HTTPS
+# verification for Internet Archive video streams.
+_ssl_paths = ssl.get_default_verify_paths()
+_ca_candidates = [
+    _ssl_paths.cafile,
+    "/etc/ssl/certs/ca-certificates.crt",
+    "/etc/pki/tls/certs/ca-bundle.crt",
+]
+_CA_BUNDLE = next(
+    (candidate for candidate in _ca_candidates if candidate and os.path.isfile(candidate)),
+    None,
+)
+if _CA_BUNDLE:
+    os.environ["OPENCV_FFMPEG_CAPTURE_OPTIONS"] = (
+        f"ca_file;{_CA_BUNDLE}|tls_verify;1"
+    )
+    print(f"🔒 Configured OpenCV/FFmpeg to use trusted CA bundle: {_CA_BUNDLE}")
+else:
+    print("⚠️ No system CA bundle found for OpenCV/FFmpeg; HTTPS video verification may fail.")
 
 import cv2
 from atproto import Client
@@ -213,7 +236,10 @@ def open_random_episode(episode):
     print(f"🔗 Stream endpoint: {stream_url}")
 
     for attempt in range(1, VIDEO_OPEN_ATTEMPTS + 1):
-        cap = cv2.VideoCapture(stream_url)
+        # Force FFmpeg for remote MP4s. If HTTPS initialization fails, do not
+        # let OpenCV fall back to its image-sequence reader and emit a
+        # misleading CAP_IMAGES filename-pattern warning.
+        cap = cv2.VideoCapture(stream_url, cv2.CAP_FFMPEG)
         if cap.isOpened():
             total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
             if total_frames > 0:
