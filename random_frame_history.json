@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T16:58:24.617635+00:00",
+  "updated_at": "2026-11-18T17:01:19.551874+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4::15446",
-      "season": 1,
-      "episode": 2,
-      "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
-      "frame_index": 15446,
-      "posted_at": "2026-11-18T04:37:26.518349+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4::6936",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
       "frame_index": 11400,
       "posted_at": "2026-11-18T16:58:24.617622+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::11885",
+      "season": 1,
+      "episode": 13,
+      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
+      "frame_index": 11885,
+      "posted_at": "2026-11-18T17:01:19.551858+00:00"
     }
   ]
 }
