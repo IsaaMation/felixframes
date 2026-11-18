@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T19:42:04.911979+00:00",
+  "updated_at": "2026-11-18T19:45:04.031988+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::23014",
-      "season": 1,
-      "episode": 13,
-      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
-      "frame_index": 23014,
-      "posted_at": "2026-11-18T07:21:17.093581+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::29850",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4",
       "frame_index": 4348,
       "posted_at": "2026-11-18T19:42:04.911967+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::13349",
+      "season": 2,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
+      "frame_index": 13349,
+      "posted_at": "2026-11-18T19:45:04.031975+00:00"
     }
   ]
 }
