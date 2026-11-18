@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T07:15:20.038845+00:00",
+  "updated_at": "2026-11-18T07:18:20.538276+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -465,6 +465,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4",
       "frame_index": 3986,
       "posted_at": "2026-11-18T07:15:20.038833+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::5846",
+      "season": 1,
+      "episode": 4,
+      "filename": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4",
+      "frame_index": 5846,
+      "posted_at": "2026-11-18T07:18:20.538264+00:00"
     }
   ]
 }
