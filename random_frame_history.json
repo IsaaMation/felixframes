@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T20:53:51.612397+00:00",
+  "updated_at": "2026-11-18T20:56:48.910341+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::19042",
-      "season": 2,
-      "episode": 8,
-      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
-      "frame_index": 19042,
-      "posted_at": "2026-11-18T08:33:16.552322+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::31665",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
       "frame_index": 28130,
       "posted_at": "2026-11-18T20:53:51.612382+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::10844",
+      "season": 1,
+      "episode": 12,
+      "filename": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4",
+      "frame_index": 10844,
+      "posted_at": "2026-11-18T20:56:48.910324+00:00"
     }
   ]
 }
