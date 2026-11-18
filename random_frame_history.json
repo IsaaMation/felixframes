@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T04:40:22.006831+00:00",
+  "updated_at": "2026-11-18T04:43:24.260274+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -49,6 +49,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
       "frame_index": 6936,
       "posted_at": "2026-11-18T04:40:22.006815+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::13259",
+      "season": 1,
+      "episode": 9,
+      "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
+      "frame_index": 13259,
+      "posted_at": "2026-11-18T04:43:24.260261+00:00"
     }
   ]
 }
