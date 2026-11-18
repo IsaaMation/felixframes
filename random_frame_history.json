@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T08:48:21.306972+00:00",
+  "updated_at": "2026-11-18T08:51:21.778995+00:00",
   "recent": [
     {
       "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::18786",
@@ -713,6 +713,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
       "frame_index": 117,
       "posted_at": "2026-11-18T08:48:21.306958+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4::11133",
+      "season": 1,
+      "episode": 2,
+      "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
+      "frame_index": 11133,
+      "posted_at": "2026-11-18T08:51:21.778982+00:00"
     }
   ]
 }
