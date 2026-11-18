@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T22:17:19.737186+00:00",
+  "updated_at": "2026-11-18T22:20:16.260497+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::7599",
-      "season": 1,
-      "episode": 10,
-      "filename": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4",
-      "frame_index": 7599,
-      "posted_at": "2026-11-18T09:56:13.867789+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::8960",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4",
       "frame_index": 9898,
       "posted_at": "2026-11-18T22:17:19.737172+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::21404",
+      "season": 2,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
+      "frame_index": 21404,
+      "posted_at": "2026-11-18T22:20:16.260484+00:00"
     }
   ]
 }
