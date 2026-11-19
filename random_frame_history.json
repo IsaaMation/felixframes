@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T00:20:03.532950+00:00",
+  "updated_at": "2026-11-19T00:22:57.069934+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4::8294",
-      "season": 2,
-      "episode": 6,
-      "filename": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4",
-      "frame_index": 8294,
-      "posted_at": "2026-11-18T11:57:56.359952+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::6949",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
       "frame_index": 22603,
       "posted_at": "2026-11-19T00:20:03.532938+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::20814",
+      "season": 1,
+      "episode": 6,
+      "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
+      "frame_index": 20814,
+      "posted_at": "2026-11-19T00:22:57.069919+00:00"
     }
   ]
 }
