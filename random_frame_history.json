@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T09:05:48.680964+00:00",
+  "updated_at": "2026-11-19T11:01:08.823855+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::9902",
-      "season": 2,
-      "episode": 7,
-      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
-      "frame_index": 9902,
-      "posted_at": "2026-11-18T20:41:52.226679+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::31854",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
       "frame_index": 32138,
       "posted_at": "2026-11-19T09:05:48.680924+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::4332",
+      "season": 1,
+      "episode": 1,
+      "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
+      "frame_index": 4332,
+      "posted_at": "2026-11-19T11:01:08.823843+00:00"
     }
   ]
 }
