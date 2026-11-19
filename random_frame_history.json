@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T03:30:07.253585+00:00",
+  "updated_at": "2026-11-19T03:33:04.033172+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4::3195",
-      "season": 2,
-      "episode": 1,
-      "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
-      "frame_index": 3195,
-      "posted_at": "2026-11-18T15:04:41.767581+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::1924",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
       "frame_index": 1157,
       "posted_at": "2026-11-19T03:30:07.253570+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::8873",
+      "season": 1,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4",
+      "frame_index": 8873,
+      "posted_at": "2026-11-19T03:33:04.033158+00:00"
     }
   ]
 }
