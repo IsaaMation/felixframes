@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T11:31:19.153259+00:00",
+  "updated_at": "2026-11-19T11:38:30.256177+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::22699",
-      "season": 1,
-      "episode": 13,
-      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
-      "frame_index": 22699,
-      "posted_at": "2026-11-18T20:47:56.838507+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4::31486",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
       "frame_index": 6532,
       "posted_at": "2026-11-19T11:31:19.153246+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::22375",
+      "season": 2,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
+      "frame_index": 22375,
+      "posted_at": "2026-11-19T11:38:30.256165+00:00"
     }
   ]
 }
