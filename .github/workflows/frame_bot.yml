@@ -39,7 +39,7 @@ jobs:
           pip install opencv-python-headless atproto
 
       - name: Run Random Frame Bot
-        continue-on-error: true
+        continue-on-error: false
         env:
           BSKY_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: python bot.py
