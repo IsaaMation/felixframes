@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T05:53:45.075776+00:00",
+  "updated_at": "2026-11-19T05:56:41.848472+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::23922",
-      "season": 1,
-      "episode": 13,
-      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
-      "frame_index": 23922,
-      "posted_at": "2026-11-18T17:27:54.818832+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::31274",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
       "frame_index": 10362,
       "posted_at": "2026-11-19T05:53:45.075763+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::28136",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 28136,
+      "posted_at": "2026-11-19T05:56:41.848457+00:00"
     }
   ]
 }
