@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T08:24:41.894192+00:00",
+  "updated_at": "2026-11-19T08:27:40.033749+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::3934",
-      "season": 1,
-      "episode": 9,
-      "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
-      "frame_index": 3934,
-      "posted_at": "2026-11-18T19:59:49.929234+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::2626",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4",
       "frame_index": 6655,
       "posted_at": "2026-11-19T08:24:41.894180+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::467",
+      "season": 2,
+      "episode": 4,
+      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
+      "frame_index": 467,
+      "posted_at": "2026-11-19T08:27:40.033733+00:00"
     }
   ]
 }
