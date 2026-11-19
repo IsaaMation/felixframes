@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T01:02:23.935811+00:00",
+  "updated_at": "2026-11-19T01:05:21.276296+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::14348",
-      "season": 1,
-      "episode": 12,
-      "filename": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4",
-      "frame_index": 14348,
-      "posted_at": "2026-11-18T12:39:28.470217+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4::9902",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
       "frame_index": 16375,
       "posted_at": "2026-11-19T01:02:23.935797+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::8784",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 8784,
+      "posted_at": "2026-11-19T01:05:21.276283+00:00"
     }
   ]
 }
