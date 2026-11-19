@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T06:02:35.021794+00:00",
+  "updated_at": "2026-11-19T06:05:30.437543+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::13405",
-      "season": 1,
-      "episode": 7,
-      "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
-      "frame_index": 13405,
-      "posted_at": "2026-11-18T17:36:54.485263+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4::17994",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
       "frame_index": 11683,
       "posted_at": "2026-11-19T06:02:35.021782+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::33060",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 33060,
+      "posted_at": "2026-11-19T06:05:30.437530+00:00"
     }
   ]
 }
