@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T21:38:30.410926+00:00",
+  "updated_at": "2026-11-19T22:08:39.684620+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::4851",
-      "season": 2,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
-      "frame_index": 4851,
-      "posted_at": "2026-11-18T21:50:34.749500+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::31632",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
       "frame_index": 4128,
       "posted_at": "2026-11-19T21:38:30.410914+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::20013",
+      "season": 2,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
+      "frame_index": 20013,
+      "posted_at": "2026-11-19T22:08:39.684605+00:00"
     }
   ]
 }
