@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T00:25:58.476173+00:00",
+  "updated_at": "2026-11-19T00:29:00.294527+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::7646",
-      "season": 1,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4",
-      "frame_index": 7646,
-      "posted_at": "2026-11-18T12:03:53.730477+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4::16436",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
       "frame_index": 11227,
       "posted_at": "2026-11-19T00:25:58.476160+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::18400",
+      "season": 1,
+      "episode": 6,
+      "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
+      "frame_index": 18400,
+      "posted_at": "2026-11-19T00:29:00.294519+00:00"
     }
   ]
 }
