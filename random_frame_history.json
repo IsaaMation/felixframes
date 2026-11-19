@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T00:22:57.069934+00:00",
+  "updated_at": "2026-11-19T00:25:58.476173+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::6949",
-      "season": 2,
-      "episode": 8,
-      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
-      "frame_index": 6949,
-      "posted_at": "2026-11-18T12:00:54.142890+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::7646",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
       "frame_index": 20814,
       "posted_at": "2026-11-19T00:22:57.069919+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::11227",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 11227,
+      "posted_at": "2026-11-19T00:25:58.476160+00:00"
     }
   ]
 }
