@@ -1,12 +1,6 @@
 name: Run Frame Bot
 
 on:
-  schedule:
-    # Every 30 minutes, using Atlanta's local time
-    - cron: '8,38 * * * *'
-      timezone: America/New_York
-
-  # Keep manual запуск available
   workflow_dispatch:
 
 permissions:
