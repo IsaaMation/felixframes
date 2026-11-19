@@ -3,7 +3,7 @@ name: Run Frame Bot
 on:
   schedule:
     # Every 30 minutes, using Atlanta's local time
-    - cron: '7,38 * * * *'
+    - cron: '8,38 * * * *'
       timezone: America/New_York
 
   # Keep manual запуск available
