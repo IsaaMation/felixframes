@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T08:03:57.379200+00:00",
+  "updated_at": "2026-11-19T08:06:55.056823+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::18158",
-      "season": 1,
-      "episode": 9,
-      "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
-      "frame_index": 18158,
-      "posted_at": "2026-11-18T19:38:58.962137+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4::4348",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
       "frame_index": 32846,
       "posted_at": "2026-11-19T08:03:57.379174+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::16047",
+      "season": 1,
+      "episode": 1,
+      "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
+      "frame_index": 16047,
+      "posted_at": "2026-11-19T08:06:55.056808+00:00"
     }
   ]
 }
