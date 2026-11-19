@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T02:53:57.593106+00:00",
+  "updated_at": "2026-11-19T02:56:59.768448+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::27753",
-      "season": 1,
-      "episode": 11,
-      "filename": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4",
-      "frame_index": 27753,
-      "posted_at": "2026-11-18T14:29:01.167492+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4::25511",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
       "frame_index": 25275,
       "posted_at": "2026-11-19T02:53:57.593094+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::496",
+      "season": 2,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
+      "frame_index": 496,
+      "posted_at": "2026-11-19T02:56:59.768434+00:00"
     }
   ]
 }
