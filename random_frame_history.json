@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T07:55:14.438575+00:00",
+  "updated_at": "2026-11-19T07:58:07.808769+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::6711",
-      "season": 2,
-      "episode": 8,
-      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
-      "frame_index": 6711,
-      "posted_at": "2026-11-18T19:30:05.886864+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::2094",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
       "frame_index": 7965,
       "posted_at": "2026-11-19T07:55:14.438563+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::21972",
+      "season": 1,
+      "episode": 13,
+      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
+      "frame_index": 21972,
+      "posted_at": "2026-11-19T07:58:07.808760+00:00"
     }
   ]
 }
