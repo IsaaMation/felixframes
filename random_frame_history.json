@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T08:12:57.637990+00:00",
+  "updated_at": "2026-11-19T08:15:51.084225+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::29907",
-      "season": 2,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
-      "frame_index": 29907,
-      "posted_at": "2026-11-18T19:47:58.022087+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::28202",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
       "frame_index": 11158,
       "posted_at": "2026-11-19T08:12:57.637974+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::662",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 662,
+      "posted_at": "2026-11-19T08:15:51.084212+00:00"
     }
   ]
 }
