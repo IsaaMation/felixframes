@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T08:18:49.381373+00:00",
+  "updated_at": "2026-11-19T08:21:45.822028+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::18074",
-      "season": 2,
-      "episode": 3,
-      "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
-      "frame_index": 18074,
-      "posted_at": "2026-11-18T19:53:52.721212+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::13662",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
       "frame_index": 14553,
       "posted_at": "2026-11-19T08:18:49.381359+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::13765",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 13765,
+      "posted_at": "2026-11-19T08:21:45.822011+00:00"
     }
   ]
 }
