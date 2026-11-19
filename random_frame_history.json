@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T04:47:38.405971+00:00",
+  "updated_at": "2026-11-19T04:50:44.830147+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::1998",
-      "season": 1,
-      "episode": 6,
-      "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
-      "frame_index": 1998,
-      "posted_at": "2026-11-18T16:22:34.966871+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::4892",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4",
       "frame_index": 32974,
       "posted_at": "2026-11-19T04:47:38.405957+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4::27751",
+      "season": 2,
+      "episode": 1,
+      "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
+      "frame_index": 27751,
+      "posted_at": "2026-11-19T04:50:44.830132+00:00"
     }
   ]
 }
