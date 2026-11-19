@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T01:11:27.973284+00:00",
+  "updated_at": "2026-11-19T01:14:29.581553+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::6184",
-      "season": 1,
-      "episode": 8,
-      "filename": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4",
-      "frame_index": 6184,
-      "posted_at": "2026-11-18T12:48:21.153405+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::3456",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4",
       "frame_index": 1145,
       "posted_at": "2026-11-19T01:11:27.973271+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::18177",
+      "season": 1,
+      "episode": 10,
+      "filename": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4",
+      "frame_index": 18177,
+      "posted_at": "2026-11-19T01:14:29.581538+00:00"
     }
   ]
 }
