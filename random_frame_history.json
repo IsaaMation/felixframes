@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T04:08:33.730420+00:00",
+  "updated_at": "2026-11-20T04:38:24.099804+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::5842",
-      "season": 1,
-      "episode": 13,
-      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
-      "frame_index": 5842,
-      "posted_at": "2026-11-18T22:29:08.037950+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::21784",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4",
       "frame_index": 29690,
       "posted_at": "2026-11-20T04:08:33.730407+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::1436",
+      "season": 1,
+      "episode": 4,
+      "filename": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4",
+      "frame_index": 1436,
+      "posted_at": "2026-11-20T04:38:24.099791+00:00"
     }
   ]
 }
