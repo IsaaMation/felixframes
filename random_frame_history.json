@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T21:38:29.868274+00:00",
+  "updated_at": "2026-11-20T22:08:21.053882+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4::5693",
-      "season": 2,
-      "episode": 5,
-      "filename": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4",
-      "frame_index": 5693,
-      "posted_at": "2026-11-19T00:14:10.486572+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::18770",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
       "frame_index": 17043,
       "posted_at": "2026-11-20T21:38:29.868262+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::33146",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 33146,
+      "posted_at": "2026-11-20T22:08:21.053867+00:00"
     }
   ]
 }
