@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T14:08:36.918762+00:00",
+  "updated_at": "2026-11-20T14:38:24.158126+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4::27153",
-      "season": 1,
-      "episode": 5,
-      "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
-      "frame_index": 27153,
-      "posted_at": "2026-11-18T23:29:37.064966+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::400",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
       "frame_index": 15286,
       "posted_at": "2026-11-20T14:08:36.918749+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::32117",
+      "season": 2,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
+      "frame_index": 32117,
+      "posted_at": "2026-11-20T14:38:24.158112+00:00"
     }
   ]
 }
