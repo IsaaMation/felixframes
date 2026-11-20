@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T02:38:22.092520+00:00",
+  "updated_at": "2026-11-20T03:08:27.364362+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::21404",
-      "season": 2,
-      "episode": 7,
-      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
-      "frame_index": 21404,
-      "posted_at": "2026-11-18T22:20:16.260484+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4::11623",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
       "frame_index": 8406,
       "posted_at": "2026-11-20T02:38:22.092508+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::23766",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 23766,
+      "posted_at": "2026-11-20T03:08:27.364350+00:00"
     }
   ]
 }
