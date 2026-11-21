@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T11:08:25.916532+00:00",
+  "updated_at": "2026-11-21T11:38:30.437339+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::1944",
-      "season": 1,
-      "episode": 9,
-      "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
-      "frame_index": 1944,
-      "posted_at": "2026-11-19T01:35:27.350427+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4::12036",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
       "frame_index": 792,
       "posted_at": "2026-11-21T11:08:25.916519+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::32922",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 32922,
+      "posted_at": "2026-11-21T11:38:30.437323+00:00"
     }
   ]
 }
