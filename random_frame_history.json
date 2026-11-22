@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T03:38:24.924656+00:00",
+  "updated_at": "2026-11-22T04:08:26.497160+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::26831",
-      "season": 1,
-      "episode": 1,
-      "filename": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4",
-      "frame_index": 26831,
-      "posted_at": "2026-11-19T03:15:09.585192+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4::5650",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
       "frame_index": 12779,
       "posted_at": "2026-11-22T03:38:24.924643+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::8555",
+      "season": 2,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4",
+      "frame_index": 8555,
+      "posted_at": "2026-11-22T04:08:26.497147+00:00"
     }
   ]
 }
