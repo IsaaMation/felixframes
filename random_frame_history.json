@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T00:38:23.147502+00:00",
+  "updated_at": "2026-11-23T01:08:35.694557+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::11997",
-      "season": 1,
-      "episode": 3,
-      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
-      "frame_index": 11997,
-      "posted_at": "2026-11-19T05:20:29.493174+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::32874",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4",
       "frame_index": 14215,
       "posted_at": "2026-11-23T00:38:23.147489+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::31711",
+      "season": 1,
+      "episode": 13,
+      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
+      "frame_index": 31711,
+      "posted_at": "2026-11-23T01:08:35.694542+00:00"
     }
   ]
 }
