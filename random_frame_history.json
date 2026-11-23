@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T19:08:33.291057+00:00",
+  "updated_at": "2026-11-23T19:38:30.841505+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4::4226",
-      "season": 1,
-      "episode": 6,
-      "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
-      "frame_index": 4226,
-      "posted_at": "2026-11-19T06:58:58.417690+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::18954",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
       "frame_index": 15010,
       "posted_at": "2026-11-23T19:08:33.291043+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::14782",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 14782,
+      "posted_at": "2026-11-23T19:38:30.841496+00:00"
     }
   ]
 }
