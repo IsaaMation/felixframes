@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T07:38:23.111606+00:00",
+  "updated_at": "2026-11-24T08:08:38.000842+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4::11158",
-      "season": 1,
-      "episode": 2,
-      "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
-      "frame_index": 11158,
-      "posted_at": "2026-11-19T08:12:57.637974+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E08_Comicalamities; Superfelix; Dueling Whiskers.mp4-NTSC.mp4::662",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
       "frame_index": 31277,
       "posted_at": "2026-11-24T07:38:23.111591+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::29338",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 29338,
+      "posted_at": "2026-11-24T08:08:38.000832+00:00"
     }
   ]
 }
