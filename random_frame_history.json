@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T00:08:28.054682+00:00",
+  "updated_at": "2026-11-24T00:38:27.943976+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::1535",
-      "season": 1,
-      "episode": 10,
-      "filename": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4",
-      "frame_index": 1535,
-      "posted_at": "2026-11-19T07:28:50.198411+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::11174",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E06_Order of the Black Cats; Felix in Calamityland; Felix Breaks the Bank.mp4-NTSC.mp4",
       "frame_index": 24296,
       "posted_at": "2026-11-24T00:08:28.054670+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::15234",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 15234,
+      "posted_at": "2026-11-24T00:38:27.943958+00:00"
     }
   ]
 }
