@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T02:38:29.209610+00:00",
+  "updated_at": "2026-11-25T03:08:35.733568+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::18693",
-      "season": 1,
-      "episode": 7,
-      "filename": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4",
-      "frame_index": 18693,
-      "posted_at": "2026-11-19T20:08:28.019604+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::28133",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
       "frame_index": 24541,
       "posted_at": "2026-11-25T02:38:29.209597+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::15208",
+      "season": 2,
+      "episode": 4,
+      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
+      "frame_index": 15208,
+      "posted_at": "2026-11-25T03:08:35.733553+00:00"
     }
   ]
 }
