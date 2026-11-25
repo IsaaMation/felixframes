@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T23:08:32.316642+00:00",
+  "updated_at": "2026-11-25T23:38:30.194043+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::27976",
-      "season": 2,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
-      "frame_index": 27976,
-      "posted_at": "2026-11-20T16:38:32.068532+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E03_The Punderground; Nightmare on Oak Street; Star Trash.mp4-NTSC.mp4::30050",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
       "frame_index": 359,
       "posted_at": "2026-11-25T23:08:32.316627+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::18083",
+      "season": 1,
+      "episode": 11,
+      "filename": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4",
+      "frame_index": 18083,
+      "posted_at": "2026-11-25T23:38:30.194029+00:00"
     }
   ]
 }
