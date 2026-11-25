@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T00:08:24.815410+00:00",
+  "updated_at": "2026-11-25T00:38:24.602833+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::20292",
-      "season": 1,
-      "episode": 12,
-      "filename": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4",
-      "frame_index": 20292,
-      "posted_at": "2026-11-19T17:38:38.705009+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::10936",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
       "frame_index": 14131,
       "posted_at": "2026-11-25T00:08:24.815397+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4::8426",
+      "season": 1,
+      "episode": 3,
+      "filename": "The Twisted Tales of Felix the Cat_S01E03_Step Right Up; Now Playing_ Felix; Jailhouse Shock.mp4-NTSC.mp4",
+      "frame_index": 8426,
+      "posted_at": "2026-11-25T00:38:24.602818+00:00"
     }
   ]
 }
