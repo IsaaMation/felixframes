@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T11:08:24.855976+00:00",
+  "updated_at": "2026-11-25T11:38:34.551582+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::1436",
-      "season": 1,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4",
-      "frame_index": 1436,
-      "posted_at": "2026-11-20T04:38:24.099791+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4::8642",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
       "frame_index": 27893,
       "posted_at": "2026-11-25T11:08:24.855963+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::8595",
+      "season": 1,
+      "episode": 13,
+      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
+      "frame_index": 8595,
+      "posted_at": "2026-11-25T11:38:34.551569+00:00"
     }
   ]
 }
