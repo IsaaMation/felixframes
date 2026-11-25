@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T12:08:25.864923+00:00",
+  "updated_at": "2026-11-25T12:38:27.196289+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4::16588",
-      "season": 1,
-      "episode": 5,
-      "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
-      "frame_index": 16588,
-      "posted_at": "2026-11-20T05:38:23.988413+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E01_Space Time Twister; Guardian Idiot; Don't String Me Along.mp4-NTSC.mp4::18867",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
       "frame_index": 2730,
       "posted_at": "2026-11-25T12:08:25.864908+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::17645",
+      "season": 2,
+      "episode": 4,
+      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
+      "frame_index": 17645,
+      "posted_at": "2026-11-25T12:38:27.196277+00:00"
     }
   ]
 }
