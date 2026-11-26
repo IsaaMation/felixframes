@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T11:38:30.448146+00:00",
+  "updated_at": "2026-11-26T12:08:31.767095+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4::18393",
-      "season": 2,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S02E04_Fuzzy Bunny Show; The Milky Way.mp4-NTSC.mp4",
-      "frame_index": 18393,
-      "posted_at": "2026-11-21T05:08:30.919153+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E07_Noah's Nightclub; Felix's Gold Score; Forever Rafter.mp4-NTSC.mp4::22124",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E05_Middle Aged Felix; Felix in Psychadelicland.mp4-NTSC.mp4",
       "frame_index": 9014,
       "posted_at": "2026-11-26T11:38:30.448133+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4::23368",
+      "season": 1,
+      "episode": 13,
+      "filename": "The Twisted Tales of Felix the Cat_S01E13_Wet Paint; News Blues; Copycat.mp4-NTSC.mp4",
+      "frame_index": 23368,
+      "posted_at": "2026-11-26T12:08:31.767082+00:00"
     }
   ]
 }
