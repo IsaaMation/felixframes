@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T13:38:28.079113+00:00",
+  "updated_at": "2026-11-27T14:08:26.828808+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::9",
-      "season": 2,
-      "episode": 7,
-      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
-      "frame_index": 9,
-      "posted_at": "2026-11-22T07:08:30.706253+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E11_Shell Shock; The Big Hunt.mp4-NTSC.mp4::18257",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S01E09_Felix in Nightdrop Land; Shocking Story.mp4-NTSC.mp4",
       "frame_index": 13852,
       "posted_at": "2026-11-27T13:38:28.079101+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4::19013",
+      "season": 1,
+      "episode": 8,
+      "filename": "The Twisted Tales of Felix the Cat_S01E08_The Earth Heist; Attack of the Tacky.mp4-NTSC.mp4",
+      "frame_index": 19013,
+      "posted_at": "2026-11-27T14:08:26.828795+00:00"
     }
   ]
 }
