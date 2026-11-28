@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T13:38:29.973052+00:00",
+  "updated_at": "2026-11-28T14:08:30.103961+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4::6663",
-      "season": 1,
-      "episode": 2,
-      "filename": "The Twisted Tales of Felix the Cat_S01E02_The Sludge King Part 1; The Sludge King Part 2; Mars Needs Felix.mp4-NTSC.mp4",
-      "frame_index": 6663,
-      "posted_at": "2026-11-23T09:08:26.520409+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S02E06_The Extraterrestrial Robot; Battle of the Superbrains; Full Screen.mp4-NTSC.mp4::20339",
       "season": 2,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E05_Black Magic Bag; The Maltese Milkshake; Attack of the Robot Rat.mp4-NTSC.mp4",
       "frame_index": 4365,
       "posted_at": "2026-11-28T13:38:29.973037+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::28819",
+      "season": 2,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
+      "frame_index": 28819,
+      "posted_at": "2026-11-28T14:08:30.103948+00:00"
     }
   ]
 }
