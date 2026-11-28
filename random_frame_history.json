@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T05:38:25.594759+00:00",
+  "updated_at": "2026-11-28T06:08:24.002144+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4::30645",
-      "season": 1,
-      "episode": 4,
-      "filename": "The Twisted Tales of Felix the Cat_S01E04_The Manhattan Triangle; The Petrified Cheese.mp4-NTSC.mp4",
-      "frame_index": 30645,
-      "posted_at": "2026-11-22T23:08:26.375006+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::10339",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E01_Surreal Estate; Phony Phelix; Five Minute Meatball.mp4-NTSC.mp4",
       "frame_index": 12306,
       "posted_at": "2026-11-28T05:38:25.594745+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4::32046",
+      "season": 2,
+      "episode": 2,
+      "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
+      "frame_index": 32046,
+      "posted_at": "2026-11-28T06:08:24.002129+00:00"
     }
   ]
 }
