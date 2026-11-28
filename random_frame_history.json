@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T06:08:24.002144+00:00",
+  "updated_at": "2026-11-28T06:38:31.297653+00:00",
   "recent": [
-    {
-      "key": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4::10339",
-      "season": 1,
-      "episode": 10,
-      "filename": "The Twisted Tales of Felix the Cat_S01E10_Love at First Slice; Space Case; Peg Leg Felix.mp4-NTSC.mp4",
-      "frame_index": 10339,
-      "posted_at": "2026-11-22T23:38:28.388992+00:00"
-    },
     {
       "key": "The Twisted Tales of Felix the Cat_S01E12_Felix's Big Splash; Gross Ghost; The Underwater Kingdom.mp4-NTSC.mp4::14287",
       "season": 1,
@@ -2001,6 +1993,14 @@
       "filename": "The Twisted Tales of Felix the Cat_S02E02_Bet a Billion Bill; Background Details; Viva Lost Wages.mp4-NTSC.mp4",
       "frame_index": 32046,
       "posted_at": "2026-11-28T06:08:24.002129+00:00"
+    },
+    {
+      "key": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4::22391",
+      "season": 2,
+      "episode": 7,
+      "filename": "The Twisted Tales of Felix the Cat_S02E07_The Golden Whatnot; The Mountain of Evil; Auto Biography.mp4-NTSC.mp4",
+      "frame_index": 22391,
+      "posted_at": "2026-11-28T06:38:31.297642+00:00"
     }
   ]
 }
